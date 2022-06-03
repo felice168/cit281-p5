@@ -16,4 +16,4 @@ For this project, I would create a Monster Game program using classes. The game 
 
 ### Code
 
-Please click the **"View on Github"** buttom on the top of the page to see the project code
+There is no code for this porject because it is an extra credit project.
